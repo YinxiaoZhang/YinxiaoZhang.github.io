@@ -1,2 +1,2 @@
-# YinxiaoZhang..github.io
+# YinxiaoZhang.github.io
 Yinxiao Personal Page
