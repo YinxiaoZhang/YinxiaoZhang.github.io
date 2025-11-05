@@ -1,0 +1,74 @@
+---
+---
+@import "minima";
+
+.site-header {
+    /* Existing background image styles */
+    background-image: url("{{ site.baseurl }}/assets/img/Background.jpg"); 
+    background-size: cover; 
+    background-position: center center;
+    position: relative; /* CRITICAL: Allows the overlay to be positioned correctly */
+    z-index: 1;         /* CRITICAL: Ensures content is above the overlay */
+    
+    /* Ensure content text is bright white for contrast */
+    color: white; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* --- ADD THIS NEW SECTION FOR THE DARK OVERLAY --- */
+.site-header::before {
+    content: ""; /* CRITICAL: Required for pseudo-element */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Semi-transparent black overlay: 70% opacity */
+    background-color: rgba(0, 0, 0, 0.7); 
+    z-index: -1; /* Place the overlay beneath the text/icons */
+}
+
+/* --- IN assets/css/main.scss --- */
+
+.site-header {
+    /* ... (rest of your background styles) ... */
+}
+
+/* Force links and social icons within the header to be white */
+.site-header a, .site-header .social-links a, .site-header .contact-links a {
+    color: white !important; /* Forces link text to be white */
+}
+
+/* You may also need to specifically set the color for the icons on the page */
+/* (This assumes your contact icons are near the header) */
+.fa-envelope, .fa-github {
+    color: white !important;
+}
+
+/* You can also use a specific color for the overlay itself */
+.site-header::before {
+    /* Use 0.4 or 0.5 for a lighter dimming effect */
+    background-color: rgba(0, 0, 0, 0.4); 
+    /* ... (rest of overlay styles) ... */
+}
+
+/* New rule to make the site title bold */
+.site-title {
+    /* Sets the title weight to bold (700) or extra bold (900) */
+    font-weight: 500 !important; 
+    
+    /* Optional: Increase the size slightly */
+    font-size: 2.0em; 
+}
+
+/* NEW UTILITY CLASS: Forces the element to start below any floated elements */
+.u-clearfix {
+    clear: both; 
+    margin-top: 1.5em; /* Adds vertical space above the element for visual separation */
+}
+
+.social-media-list li {
+    display: inline-block; /* Changes item from full-width block to inline item */
+    margin-right: 15px;    /* Adds space between icons */
+}
