@@ -11,12 +11,30 @@ title: Home
 
 # 👋 Hello, I'm Yinxiao Zhang!
 
-I am now first year PhD student at Purdue University. My advisor is [Dr. Yi Gao](https://www.yigao.info).
+Welcome! I am a first year PhD student at Purdue University, advised by [Prof. Yi Gao](https://www.yigao.info). Before Joining Purdue, I worked in [Haleon](https://www.haleon.com/) as Management Trainee. At UC Berkeley, I was advised by [Dr. Ben Erichson](https://sites.google.com/icsi.berkeley.edu/erichson) and [Dr. Pu Ren](https://paulpuren.github.io/).
 
-My research focus on application of machine learning in Aviation industry. 
+My current research focus on application of machine learning in Aviation industry. 
 
-<div style="clear: both;">
-  <h2>🎓 Education</h2>
+<div style="clear: both; margin-top: 30px;">
+  <h2>📚 Teaching</h2>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <b><a href="https://boilerclasses.com/detail/AT33800AirlineManagement" target="_blank" style="text-decoration: none; color: inherit;">Airline Management (AT 338)</a></b>
+  
+  <p style="margin-top: 5px; font-size: 0.95em;">
+    This course is a detailed study of airline management principles and processes. 
+    Topics include airline economics, organization, forecasting, marketing, alliances, 
+    pricing, scheduling, finance, fleet planning, labor relations and air freight. 
+    Business ethics pertaining to airlines are introduced.
+  </p>
+</div>
+
+<div style="margin-top: 15px;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li><b>[Fall 2025]</b> Teaching Assistant</li>
+    <li><b>[Spring 2026]</b> Instructor</li>
+  </ul>
 </div>
 
 
