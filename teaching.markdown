@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <div style="margin-bottom: 20px;">
-  <b><a href="https://boilerclasses.com/detail/AT33800AirlineManagement" target="_blank" style="text-decoration: none; color: inherit;">🛫Airline Management (AT 338)</a></b>
+  <b><a href="https://boilerclasses.com/detail/AT33800AirlineManagement" target="_blank" style="text-decoration: none; color: inherit;">🛫Airline Management (Purdue AT 338)</a></b>
   
   <p style="margin-top: 5px; font-size: 0.95em;">
     This course is a detailed study of airline management principles and processes. 
