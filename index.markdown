@@ -20,8 +20,8 @@ My current research focus on application of machine learning in Aviation industr
 </div>
 
 <div style="margin-bottom: 20px;">
-  <b><a href="https://boilerclasses.com/detail/AT33800AirlineManagement" target="_blank" style="text-decoration: none; color: inherit;">🛫Airline Management (Purdue AT 338)</a></b>
-  <b><a href="https://catalog.rpi.edu/preview_course_nopop.php?catoid=13&coid=22746" target="_blank" style="text-decoration: none; color: inherit;">🛠️Engineering Graphics and CAD (RPI ENGR 1200)</a></b>
+  <p></p><b><a href="https://boilerclasses.com/detail/AT33800AirlineManagement" target="_blank" style="text-decoration: none; color: inherit;">🛫Airline Management (Purdue AT 338)</a></b><p>
+  <p></p><b><a href="https://catalog.rpi.edu/preview_course_nopop.php?catoid=13&coid=22746" target="_blank" style="text-decoration: none; color: inherit;">🛠️Engineering Graphics and CAD (RPI ENGR 1200)</a></b></p>
 
 
 <div style="clear: both; margin-top: 30px;">
