@@ -30,10 +30,6 @@ My current research focus on application of machine learning in Aviation industr
   </p>
 </div>
 
-<div style="clear: both; margin-top: 30px;">
-  <h2>🎓 Education</h2>
-</div>
-
 <div style="margin-top: 15px;">
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li><b>[Fall 2025]</b> Teaching Assistant</li>
@@ -41,6 +37,9 @@ My current research focus on application of machine learning in Aviation industr
   </ul>
 </div>
 
+<div style="clear: both; margin-top: 30px;">
+  <h2>🎓 Education</h2>
+</div>
 
 <div style="margin-bottom: 20px;">
   <img src="/assets/img/logos/Purdue_logo.jpg" alt="Purdue Logo" style="height: 30px; vertical-align: middle; margin-right: 10px;">
