@@ -61,5 +61,5 @@ plugins:
 minima:
   header_pages:
     - index.markdown #main
-    - about.markdown #about
+    - teaching.markdown #teaching
     - research.markdown #research
