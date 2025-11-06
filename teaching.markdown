@@ -26,6 +26,6 @@ permalink: /teaching/
   <b><a href="https://catalog.rpi.edu/preview_course_nopop.php?catoid=13&coid=22746" target="_blank" style="text-decoration: none; color: inherit;">🛠️Engineering Graphics and CAD (RPI ENGR 1200)</a></b>
   
   <p style="margin-top: 5px; font-size: 0.95em;">
-    An introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computer-generated design documentation.
+    This course is an introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computer-generated design documentation.
   </p>
 </div>
