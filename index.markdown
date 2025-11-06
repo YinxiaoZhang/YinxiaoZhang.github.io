@@ -30,6 +30,10 @@ My current research focus on application of machine learning in Aviation industr
   </p>
 </div>
 
+<div style="clear: both; margin-top: 30px;">
+  <h2>🎓 Education</h2>
+</div>
+
 <div style="margin-top: 15px;">
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li><b>[Fall 2025]</b> Teaching Assistant</li>
@@ -62,9 +66,16 @@ My current research focus on application of machine learning in Aviation industr
   </ul>
 </div>
 
-## Research
+<div style="clear: both; margin-top: 30px;">
+  <h2>🎰 Research</h2>
+</div>
 
-* **Temporal Fusion Transformers (TFTs)** for high-fidelity prediction.
-* **Physics-Informed Neural Networks** applications.
+<div style="margin-top: 15px;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li><b>Temporal Fusion Transformers (TFTs)</b> for high-fidelity prediction</li>
+    <li><b>Physics-Informed Neural Networks</b> applications</li>
+  </ul>
+</div>
+
 
 ---
