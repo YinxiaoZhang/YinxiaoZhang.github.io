@@ -17,8 +17,8 @@ permalink: /teaching/
 
 <div style="margin-top: 15px;">
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li><b>[Fall 2025]</b> Teaching Assistant</li>
-    <li><b>[Spring 2026]</b> Instructor</li>
+    <li><b>Teaching Assistant</b> [Fall 2025]</li>
+    <li><b>Instructor</b> [Spring 2026] </li>
   </ul>
 </div>
 
@@ -28,4 +28,10 @@ permalink: /teaching/
   <p style="margin-top: 5px; font-size: 0.95em;">
     This course is an introduction to the techniques for creating solid models of engineering designs. Topics include three-dimensional modeling of parts and assemblies, visualization, orthographic and isometric free-hand sketching, and computer-generated design documentation.
   </p>
+</div>
+
+<div style="margin-top: 15px;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li><b>Tutor</b> [2019 - 2020]</li>
+  </ul>
 </div>
