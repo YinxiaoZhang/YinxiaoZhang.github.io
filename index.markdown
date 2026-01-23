@@ -11,7 +11,7 @@ title: Home
 
 # 👋 Hello, I'm Yinxiao Zhang!
 
-Welcome! I am a first year PhD student at Purdue University, coadvised by [Prof. Mary Johnson](https://polytechnic.purdue.edu/profile/johnso22) and [Prof. Dengfeng Sun](https://web.ics.purdue.edu/~dsun/people.html). Previously, I worked with [Prof. Yi Gao](https://www.yigao.info). Prior joining Purdue, I worked in [Haleon](https://www.haleon.com/) as Management Trainee. At UC Berkeley, I was advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Dr. Ben Erichson](https://sites.google.com/icsi.berkeley.edu/erichson) and [Dr. Pu Ren](https://paulpuren.github.io/).
+Welcome! I am a first year PhD student at Purdue University, coadvised by [Prof. Mary Johnson](https://polytechnic.purdue.edu/profile/johnso22) and [Prof. Dengfeng Sun](https://web.ics.purdue.edu/~dsun/people.html). Previously, I worked with [Prof. Yi Gao](https://www.yigao.info). At UC Berkeley, I was advised by [Prof. Michael Mahoney](https://www.stat.berkeley.edu/~mmahoney/), [Dr. Ben Erichson](https://sites.google.com/icsi.berkeley.edu/erichson) and [Dr. Pu Ren](https://paulpuren.github.io/).
 
 My current research focus on application of machine learning in Aviation industry. 
 
