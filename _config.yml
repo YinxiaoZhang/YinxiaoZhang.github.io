@@ -23,7 +23,7 @@ email: zhan3110@purdue.edu
 # Add a custom variable just for Liquid access
 my_contact_email: zhan3110@purdue.edu
 profile_image: /assets/img/Head.jpg
-custom_footer_text: "© 2025 Yinxiao Zhang | All rights reserved."
+custom_footer_text: "© 2026 Yinxiao Zhang | All rights reserved."
 description: >- # this means to ignore newlines until "baseurl:"
 
   Welcome to Yinxiao's personal website! FYI, this site is still under construction.
