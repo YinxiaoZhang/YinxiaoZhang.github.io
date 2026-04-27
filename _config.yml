@@ -62,4 +62,5 @@ minima:
   header_pages:
     - index.markdown #main
     - teaching.markdown #teaching
-    - research.markdown #research
+#    - research.markdown #research
+    - ACRP.markdown #ACRP Proj
