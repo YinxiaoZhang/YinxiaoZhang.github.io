@@ -58,9 +58,9 @@ plugins:
 #   - vendor/ruby/
 
 # Add this block to the bottom of your _config.yml
-minima:
-  header_pages:
-    - index.markdown #main
-    - teaching.markdown #teaching
-#    - research.markdown #research
-    - ACRP.markdown #ACRP Proj
+
+header_pages:
+  - index.markdown #main
+  - teaching.markdown #teaching
+#   - research.markdown #research
+  - ACRP.markdown #ACRP Proj
